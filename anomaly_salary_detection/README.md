@@ -42,7 +42,7 @@ Robert Brown,51000
    ```
 
 3. **Use the App**
-   - Open the URL shown in your terminal (typically http://localhost:8501)
+   - Open the URL shown in your terminal (typically http://localhost:8501) or access it on cloud : https://anomalyapppy-d8yti2mho3ertvxjuejywf.streamlit.app/
    - Click "Browse files" to upload your CSV
    - Adjust the anomaly sensitivity slider if needed
    - View results in the interactive charts and tables
